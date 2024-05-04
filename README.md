@@ -1,1 +1,1 @@
-This is a repo used to practice git  -Version Control System
+This is a repository used to practice git -Version Control System
